@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KaCeeUnruh
-- 👀 I’m interested in coding and expanding my coding skills
+- 👀 I’m interested in expanding my coding skills
 - 🌱 I’m currently learning how to perform Web Scraping
 - 📫 You can reach me through my website www.kaceeunruh.com
