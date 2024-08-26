@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KaCeeUnruh
-- 👀 I’m interested in expanding my coding skills
-- 🌱 I’m currently learning how to code a selenium webdriver
+- 👀 I’m interested in web design
+- 🌱 I’m currently expanding my skills with the selenium webdriver
 - 📫 You can reach me through my website www.kaceeunruh.com
